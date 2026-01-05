@@ -7,6 +7,6 @@ curl -L -o crack.sh.x https://github.com/xyue0826-star/vocechat-/raw/refs/heads/
 
 需要授权请
 
-闲鱼：汐月杂货铺
+闲鱼：汐月汐月
 
 微信：loveyouliyux
